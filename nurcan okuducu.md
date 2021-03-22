@@ -1,2 +1,1 @@
-# itp-git-lesson
-dddd
+# nurcan okuducu update
